@@ -17,7 +17,7 @@ const router = useRouter()
 
 // eslint-disable-next-line no-unused-vars
 const goGitHub = () => {
-  window.open('https://github.com/XPoet/vite-vue3-starter')
+  window.open('https://github.com/codewxh/tomato-time.git')
 }
 </script>
 
