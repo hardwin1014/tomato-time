@@ -25,7 +25,7 @@
 #### 使用 Git
 
 ```sh 
-
+git clone https://github.com/codewxh/tomato-time.git
 ```
   
 ### 安装依赖
