@@ -1,2 +1,2 @@
-export {};
-//# sourceMappingURL=index.js.map
+export {}
+// # sourceMappingURL=index.js.map

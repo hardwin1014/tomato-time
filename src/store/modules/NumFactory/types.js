@@ -1,2 +1,2 @@
-export {};
-//# sourceMappingURL=types.js.map
+export {}
+// # sourceMappingURL=types.js.map
